@@ -2997,6 +2997,10 @@ ul {
   text-transform: capitalize;
   margin-top: 8px;
 }
+/* Clip art footer design*/
+#F1X {
+  text-align:center;
+}
 
 .frame-area{
   display: block;
@@ -4440,6 +4444,12 @@ ul {
 }
 
 #Im-G1 {
+  text-align: center;
+  font-size: 150%;
+}
+#Im-G2 {
+  color: black;
+  font-size: 50%;
   text-align: center;
 }
 
